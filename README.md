@@ -1,1 +1,1 @@
-# Matematika
+P=2M+B
